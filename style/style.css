@@ -1,0 +1,78 @@
+/* Default Set */
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: red; */
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #1A1A1D;
+}
+
+/* End of default set */
+
+/* Style  set*/
+.container {
+  color: #ffffff;
+  background-color: purple;
+  padding: 40px 0px 100px 0px ;
+  margin: 80px 100px 80px 100px ;
+  border-radius: 10px;
+}
+
+.text-style {
+  line-height: 30px;
+  text-align: center;
+}
+
+.add-form {
+  text-align: center;
+}
+
+.add-form input {
+  width: 30%;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  border: none;
+}
+
+.add {
+  margin-top: 10px;
+  padding: 9px 15px 9px 15px;
+  margin-left: 10px;
+  border: solid #ffffff 1px;
+  background-color: #824080;
+  color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.list-na {
+  margin: 30px 80px 10px 80px;
+  font-size: 16px;
+}
+
+.list-na li {
+  padding: 5px;
+  margin: 10px 15px 10px 15px;
+  list-style: square;
+  border-bottom: #ffffff solid 1px;
+  list-style : none;
+}
+
+.btn-rm {
+  margin-top: 10px;
+  padding: 9px 15px 9px 15px;
+  margin-left: 1px;
+  border: solid #ffffff 1px;
+  background-color: #824080;
+  color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* End style */
