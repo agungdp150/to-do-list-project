@@ -8,9 +8,9 @@ HTML
 CSS
 Javascript (DOM)
 
-## Usage
+## Link Project
 
-if you wanna see the my project please copy link below :
+if you wanna see the my project please click link below :
 
 https://agungdp150.github.io/to-do-list-project/
 
