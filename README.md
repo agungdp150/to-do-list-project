@@ -10,7 +10,7 @@ Javascript (DOM)
 
 ## Link Project
 
-if you wanna see the my project please click link below :
+if you wanna see my project please click link below :
 
 https://agungdp150.github.io/to-do-list-project/
 
